@@ -1,3 +1,11 @@
+/* Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Common */
 section {
   width: 1280px;
   height: 720px;
@@ -8,3 +16,5 @@ section {
 .main-picture {
   float: right;
 }
+
+/* First page */
