@@ -1,4 +1,10 @@
 section {
-    border: 1px solid black;
-    background-color: #FFC700;
+  width: 1280px;
+  height: 720px;
+  border: 1px solid black;
+  background-color: #ffc700;
+}
+
+.main-picture {
+  float: right;
 }
